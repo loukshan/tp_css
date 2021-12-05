@@ -1,0 +1,24 @@
+table{
+	border: 3px solid #6495ed;
+	background-color:#d0e3fa;
+	width: 60%;
+	margin:auto;
+}
+
+
+th{
+	font-family: arial;
+	font-size: 1.20em;
+	background-image: url('image2.png');
+	border: 1px solid black;
+	padding: 5px;
+}
+
+td{
+	font-family: arial;
+	font-size: 0.80em;
+	border: 1px solid black;
+	padding: 5px;
+	text-align: center;
+
+}
